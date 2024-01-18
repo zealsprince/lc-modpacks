@@ -17,5 +17,5 @@ There is additionally a VR version of this modpack with some stripped down funct
 
 Both of these modpacks can be found on Thunderstore.
 
-- [Enhanced & Extended]()
-- [Enhanced & Extended (VR Edition)]()
+- [Enhanced & Extended](https://thunderstore.io/c/lethal-company/p/zealsprince/VanillaEnhancedExtended/)
+- [Enhanced & Extended (VR Edition)](https://thunderstore.io/c/lethal-company/p/zealsprince/VanillaEnhancedExtendedVR/)

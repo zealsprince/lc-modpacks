@@ -11,4 +11,4 @@ Base game content is mostly preserved with only improvements to the core gamepla
 
 ## Non-VR Version ##
 
-For the Non-VR version of this modpack click here.
+For the Non-VR version of this modpack [click here](https://thunderstore.io/c/lethal-company/p/zealsprince/VanillaEnhancedExtended/).
