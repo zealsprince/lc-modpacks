@@ -1,5 +1,5 @@
 
-# Lethal Company: Vanilla Enhanced & Extended Modpacks (VR Edition) #
+# Lethal Company: Vanilla Enhanced & Extended (VR Edition) #
 
 Lethal Company taken to the next level featuring new enemies, moons, dungeons and items. Pre-configured for the best experience with lore friendly and seamless integration.
 

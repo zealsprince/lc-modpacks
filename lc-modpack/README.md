@@ -1,5 +1,5 @@
 
-# Lethal Company: Vanilla Enhanced & Extended Modpacks #
+# Lethal Company: Vanilla Enhanced & Extended #
 
 Lethal Company taken to the next level featuring new enemies, moons, dungeons and items. Pre-configured for the best experience with lore friendly and seamless integration.
 
