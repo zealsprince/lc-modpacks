@@ -1,6 +1,10 @@
 
 # Changelog #
 
+## 1.0.3 ##
+
+- Add configurations for Scoopy's new sewer interior
+
 ## 1.0.2 ##
 
 - Add CullFactory & Scopophobia
