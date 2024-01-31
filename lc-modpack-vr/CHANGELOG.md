@@ -1,6 +1,11 @@
 
 # Changelog #
 
+## 1.0.4 ##
+
+- Add HazardsOutside mod with low mine spawn chances
+- Update level names in MoreInteriors configuration
+
 ## 1.0.3 ##
 
 - Add configurations for Scoopy's new sewer interior
