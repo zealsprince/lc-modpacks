@@ -1,6 +1,13 @@
 
 # Changelog #
 
+## 1.0.5 ##
+
+- Reorganize manifest to have space for somewhat defined categories
+- Add AccurateStaminaDisplay and HideChat
+- Add RouteRandom with full obfuscating configuration
+- Change MaskedEnemy mod to not spawn on every moon
+
 ## 1.0.4 ##
 
 - Add HazardsOutside mod with low mine spawn chances
