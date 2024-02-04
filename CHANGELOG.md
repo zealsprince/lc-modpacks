@@ -1,6 +1,13 @@
 
 # Changelog #
 
+## 1.1.0 ##
+
+- Add Malfunctions mod
+- Remove RouteRandom mod as it's replaced in intended functionality by my Malfunctions mod
+- Remove AccurateStaminaDisplay is it bugs out after respawning
+- Tweak HazardsOutside mod to have level specific spawns
+
 ## 1.0.5 ##
 
 - Reorganize manifest to have space for somewhat defined categories
