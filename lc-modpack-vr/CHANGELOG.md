@@ -1,6 +1,17 @@
 
 # Changelog #
 
+# 1.1.2 #
+
+- Update Malfunctions config to latest version
+
+## 1.1.1 ##
+
+- Update mods
+- Prune old configs
+- Fix version mismatch due to faulty upstream mod configuration updates
+- Fix LC_API allowing unmodded server list causing version mismatches
+
 ## 1.1.0 ##
 
 - Add Malfunctions mod
