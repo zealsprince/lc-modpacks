@@ -1,6 +1,11 @@
 
 # Changelog #
 
+# 1.1.4 #
+
+- Fix Malfunctions mod having my debug configuration
+- Fix PossessedMasks mod not letting you drop the item
+
 # 1.1.3 #
 
 - Update incorrect LCHazardsOutside configuration
