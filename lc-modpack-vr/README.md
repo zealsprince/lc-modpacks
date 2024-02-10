@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/version-1.1.2-0AF" /></a>
+<img src="https://img.shields.io/badge/version-1.1.3-0AF" /></a>
 <img src="https://img.shields.io/badge/lc--version-v49-000" /></a>
 
 # Lethal Company: Vanilla Enhanced & Extended (VR Edition) #

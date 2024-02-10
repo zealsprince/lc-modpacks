@@ -1,6 +1,10 @@
 
 # Changelog #
 
+# 1.1.3 #
+
+- Update incorrect LCHazardsOutside configuration
+
 # 1.1.2 #
 
 - Update Malfunctions config to latest version
