@@ -1,6 +1,13 @@
 
 # Changelog #
 
+# 1.2.0 #
+
+- Add LethalSnap
+- Add back CullFactory now that it works with the sewer interior
+- Add LCMaxSoundsFix
+- Update configuration for MoreInteriors and SCPCBDunGen to match new level specification format
+
 # 1.1.4 #
 
 - Fix Malfunctions mod having my debug configuration
