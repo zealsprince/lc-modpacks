@@ -1,6 +1,10 @@
 
 # Changelog #
 
+# 1.2.1 #
+
+- Swap out Skinwalker mod with Mirage
+
 # 1.2.0 #
 
 - Add LethalSnap
