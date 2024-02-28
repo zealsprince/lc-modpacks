@@ -1,6 +1,18 @@
 
 # Changelog #
 
+# 1.3.0 #
+
+- Add Budapest, Atlantica and Gratar moons
+- Add Peepers outdoor creature mod
+- Add Locker enemy mod
+- Add ship windows mod
+- Add abandoned company assets mod
+- Add pool rooms interior
+- Add mental hospital interior
+- Make March a mine field
+- Make possessed masks droppable
+
 # 1.2.1 #
 
 - Swap out Skinwalker mod with Mirage
